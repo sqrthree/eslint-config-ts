@@ -7,7 +7,7 @@ A personal ESLint configuration for Node.js and TypeScript.
 Add this package to your project as a dev-dependency:
 
 ```bash
-npm install -D eslint typescript @sqrtthree/eslint-config-ts
+npm install -D eslint prettier jest typescript @sqrtthree/eslint-config-ts
 ```
 
 Then initialize the linter.
