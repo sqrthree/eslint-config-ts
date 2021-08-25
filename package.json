@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sqrthree/eslint-config-ts#readme",
   "dependencies": {
-    "@sqrtthree/eslint-config-node": "^0.1.3",
+    "@sqrtthree/eslint-config-node": "^0.2.0",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2"
   },
