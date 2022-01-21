@@ -6,6 +6,9 @@
   "scripts": {
     "test": "eslint --ext ts ./test"
   },
+  "files": [
+    "index.js"
+  ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
