@@ -22,14 +22,14 @@
   "homepage": "https://github.com/sqrthree/eslint-config-ts#readme",
   "dependencies": {
     "@sqrtthree/eslint-config-node": "^0.3.0",
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2"
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0"
   },
   "devDependencies": {
     "eslint": "^8.7.0",
     "jest": "^27.4.7",
     "prettier": "^2.5.1",
-    "typescript": "^4.3.5"
+    "typescript": "^4.5.5"
   },
   "peerDependencies": {
     "eslint": ">= 7",
